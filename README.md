@@ -236,5 +236,3 @@ php artisan migrate:refresh --seed
 > |dateCompleted|timedate|
 >
 > Для реализации данного функционала придется обратиться к [документации по типам в Laravel](https://laravel.com/docs/11.x/migrations)
-
-## 2.
